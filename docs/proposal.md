@@ -34,4 +34,4 @@ What is an individual sample/unit of analysis in this project? What characterist
 
 ### Tools:
 How do you intend to meet the tools requirement of the project? 
- - sklearn
+ - SKLearn
